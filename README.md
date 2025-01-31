@@ -30,6 +30,6 @@
 
 📌 Find the detailed test documents here:
 
-- 📄 [FRS (FUNCTIONAL REQUIREMENTS SPECIFICATIONS)](FRS (FUNCTIONAL REQUIREMENTS SPECIFICATIONS))
+- 📄 [Functional Requirements Specifications](FRS/FRS.md)
 - 📜 [Test Plan](TestPlan.md)
 - 
