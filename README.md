@@ -2,7 +2,7 @@
 
 🚀 **Expense Tracker** is a simple yet powerful full-stack web application designed to help you track your daily expenses, manage budgets, and gain insights into your financial habits.  
 
-![Expense Tracker Screenshot](https://your-image-url.com) *(Add a screenshot of your app for better presentation!)*  
+![image](https://github.com/user-attachments/assets/d2ee40a8-626e-4b08-91b0-87588257f570)
 
 ## 🌟 Features  
 ✅ **Add, Edit, & Delete Transactions** – Track income and expenses easily.  
