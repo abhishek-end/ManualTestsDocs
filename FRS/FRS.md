@@ -1,6 +1,4 @@
-﻿![A close up of a logo
 
-Description automatically generated](Aspose.Words.5bf25b9c-030b-41e8-b3b7-1b8e9222a1c8.001.png)		
 
 **FUNCTIONAL REQUIREMENTS SPECIFICATIONS**
 
