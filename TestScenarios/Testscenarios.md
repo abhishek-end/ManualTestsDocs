@@ -5,13 +5,13 @@
 |Client|Abhishek| | | | | | |
 |Required Document |FRS ( Functional Requirement Specification| | | | | | |
 |Created By |Abhishek| | | | | | |
-|Creation Date |Jan 28 , 225| | | | | | |
+|Creation Date |Jan 28 , 2025| | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 |Test Scenairos ID|Related Required Document |Test Scenarios|Pre-requisite |Test Data |Expected Results |Priority|Number of Test cases |
 |TS_1|FRS_1,3|Validate the working of Registration Functionality |User is on registration page| |User should be registered successfully and redirected to the login page.|High|62✅|
-|TS_2|FRS_2 , FRS_4|Validate the working of Login Functionality |User has a Registered Accout | |User should be logged in successfully.|High| |50✅|
+|TS_2|FRS_2 , FRS_4|Validate the working of Login Functionality |User has a Registered Accout | |User should be logged in successfully.|High||50✅|
 |TS_3|FRS (Assumed)|Validate the working of Logout Functionality |User is logged in | |User should be logged out successfully and redirected to the home page.|High| |
 |TS_4|FRS_7, FRS_8, FRS_9|Validate the working of Add Transaction Functionality |User is logged in | |User should be able to add a transaction successfully.|High| |
 |TS_5|FRS_1, FRS_11|Validate the working of Add Category Functionality |User is logged in | |User should be able to add a category successfully.|High| |
