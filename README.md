@@ -17,9 +17,14 @@
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Authentication:** JWT  
+- **Authentication:** JWT
 
----
+- Check out the live version of the app here: [Live Website](https://expense-traker-six.vercel.app/)
+
+
+
+
+
 
 ## 🛠️ Testing Documentation
 
