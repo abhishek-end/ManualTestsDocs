@@ -31,5 +31,5 @@
 📌 Find the detailed test documents here:
 
 - 📄 [Functional Requirements Specifications](FRS/FRS.md)
-- 📜 [Test Plan](TestPlan.md)
+- 📜 [Test Plan](TestPlan/TestPlans.md)
 - 
