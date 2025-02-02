@@ -32,3 +32,4 @@
 - 🔍 [Test Scenarios](TestScenarios/Testscenarios.md)
 - 📕 [Test Case Registration](TestCase/regi.md)
 - 📕 [Test Case Login](TestCase/Testcases.md)
+- 📕 [Test Case Logout](TestCase/logout.md).
