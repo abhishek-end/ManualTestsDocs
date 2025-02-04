@@ -33,5 +33,5 @@
 - 📕 [Test Case Registration](TestCase/regi.md)
 - 📕 [Test Case Login](TestCase/Testcases.md)
 - 📕 [Test Case Logout](TestCase/logout.md).
-- 📕 [Test Case Logout](TestCase/AddTransaction.md).
+- 📕 [Test Case Add Transactions](TestCase/AddTransaction.md).
   
