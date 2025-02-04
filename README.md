@@ -34,6 +34,7 @@
 - 📕 [Test Case Login](TestCase/Testcases.md)
 - 📕 [Test Case Logout](TestCase/logout.md)
 - 📕 [Test Case Add Transactions](TestCase/AddTransaction.md)
-- 📕 [Test Case Add Category](TestCase/AddCategory.md)
+- 📕 [Test Case Add Category](TestCase/AddCategory.md) 
+- 📕 [Test Case Categories Displayed](TestCase/CategoriesDisplayed.md)
   
   
