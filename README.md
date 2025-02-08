@@ -37,5 +37,6 @@
 - 📕 [Test Case Add Category](TestCase/AddCategory.md) 
 - 📕 [Test Case Categories Displayed](TestCase/CategoriesDisplayed.md)
 - 📕 [Test Case Categories Update and Delete](TestCase/DeleteAndUpdateCat.md)
+- 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md)
   
   
