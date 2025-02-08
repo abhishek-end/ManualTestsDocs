@@ -38,5 +38,7 @@
 - 📕 [Test Case Categories Displayed](TestCase/CategoriesDisplayed.md)
 - 📕 [Test Case Categories Update and Delete](TestCase/DeleteAndUpdateCat.md)
 - 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md)
-  
+
+  ***NOTE****
+  I created my own website from scratch adn then perform Manual testing on it from scratch like Analysis Requirement -> writing Test plan -> Writing Test Scenarios -> and last writing Test case for all Test scenairos 
   
