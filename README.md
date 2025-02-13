@@ -1,4 +1,4 @@
-# 💰 Expense Tracker – Manage Your Finances Like a Pro!  
+# 💰 Expense Tracker – Manage Your Finances here!  
 
 🚀 **Expense Tracker** is a simple yet powerful full-stack web application designed to help you track your daily expenses, manage budgets, and gain insights into your financial habits.  
 
@@ -37,7 +37,9 @@
 - 📕 [Test Case Add Category](TestCase/AddCategory.md) 
 - 📕 [Test Case Categories Displayed](TestCase/CategoriesDisplayed.md)
 - 📕 [Test Case Categories Update and Delete](TestCase/DeleteAndUpdateCat.md)
-- 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md)
+- 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md) 
+- 📕 [Test Case Search and Filter ](TestCase/filter.mdTestCase/filter.md)
+
 
   ***NOTE****
   I created my own website from scratch and then perform Manual testing on it from scratch like Analysis Requirement -> writing Test plan -> Writing Test Scenarios -> and last writing Test case for all Test scenairos 
