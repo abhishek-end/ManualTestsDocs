@@ -40,7 +40,7 @@
 - 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md) 
 - 📕 [Test Case Search and Filter ](TestCase/filter.md)
 - 📕 [Test Case Dashboard  ](TestCase/Dashboard.md) 
-- 📕 [Test Case Search and Filter ](TestCase/SessionandSummary.md)
+- 📕 [Test Case Session and Dashboard summary ](TestCase/SessionandSummary.md)
 
   ***NOTE****
   I created my own website from scratch and then perform Manual testing on it from scratch like Analysis Requirement -> writing Test plan -> Writing Test Scenarios -> and last writing Test case for all Test scenairos 
