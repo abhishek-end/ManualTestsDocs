@@ -38,7 +38,8 @@
 - 📕 [Test Case Categories Displayed](TestCase/CategoriesDisplayed.md)
 - 📕 [Test Case Categories Update and Delete](TestCase/DeleteAndUpdateCat.md)
 - 📕 [Test Case Categories Navigation and Responsive](TestCase/NavigationAndResponsivness.md) 
-- 📕 [Test Case Search and Filter ](TestCase/filter.mdTestCase/filter.md)
+- 📕 [Test Case Search and Filter ](TestCase/filter.md)
+- 📕 [Test Case Search and Filter ](TestCase/Dashboard.md)
 
 
   ***NOTE****
