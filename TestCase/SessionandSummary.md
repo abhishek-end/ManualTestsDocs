@@ -4,7 +4,7 @@
 |Client|Abhishek| | | | | | | | | |
 |Required Document |FRS ( Functional Requirement Specification| | | | | | | | | |
 |Created By |Abhishek| | | | | | | | | |
-|Creation Date |Feb 8, 2025| | | | | | | | | |
+|Creation Date |Feb 13, 2025| | | | | | | | | |
 |Doc Type|Update username, email and password from profile| | | | | | | | | |
 | | | | | | | | | | | |
 |Refernce Document |Test Scanrios ID|Test Scenarios|Test Case ID|Test Type|Test Case Description|Pre-requisite|Test Steps|Expected Results|Actual Results|HOW TO SOLVE BUG STEPS|
